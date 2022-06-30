@@ -2,8 +2,12 @@
 
 # Le Projet
 Ce projet à but uniquement visuel à été créé dans un but décoratif essentiellement, pouvoir faire un panneau led d'1m/30cm (taille réduite dans le cadre du projet) qui pourrait troner au milieu d'un salon ou d'une piece de vie commune par exemple. L'idée c'est de pouvoir afficher le spectre audio des musiques écoutées dans la pièce.
+Suite à plusieurs péripéties nous avons du changer à maintes reprise le projet et revoir certains éléments il y'a donc plusieurs versions par lesquelles nous sommes passé et elles sont listées ci-dessous
+
+Le code est similaire sur les 3 versions il utilise notemment la library LedControl.h (le fichier.ino est disponible juste au dessus du README.md)
 ## Musicwall V1 (*obsolète*)
 Dans cette première version nous comptions utiliser une carte Uno et utiliser bluetooth grâce à un recepteur audio pour faire la liaison entre l'appareil mettant la musique et la carte malheuresement il nous fallait plus de connaissances sur le sujet, cette version a donc été abandonnée après avoir eu les yeux plus gros que le ventre (on a aussi songé à utiliser un ESP32 mais il etait inutilisable hélas)
+
 ### 1) Materiel:
 -Carte Uno
 
