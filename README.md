@@ -25,7 +25,7 @@ Dans cette version on a décidé de supprimer l'idée du bluetooth et de directe
 -jack stereo 3,5mm à souder
 
 -cables
-### Photo dans ressources
+### 2) Photo dans ressources
 ## Musicwall VFinale
 Pour cette dernière version on a troqué le jack contre un module micro connectéé à la carte permettant de capter le son qui passse
 ### 1) Matériel:
