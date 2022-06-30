@@ -25,8 +25,7 @@ Dans cette version on a décidé de supprimer l'idée du bluetooth et de directe
 -jack stereo 3,5mm à souder
 
 -cables
-### 2) Photo
-![IMG_2042](https://user-images.githubusercontent.com/102424510/176753793-fbc26f8e-d300-4500-b23a-dfbceb3d68bb.png)
+### Photo dans ressources
 ## Musicwall VFinale
 Pour cette dernière version on a troqué le jack contre un module micro connectéé à la carte permettant de capter le son qui passse
 ### 1) Matériel:
@@ -38,5 +37,5 @@ Pour cette dernière version on a troqué le jack contre un module micro connect
 
 -cables
 
-### 2) Photo
-![IMG_2044](https://user-images.githubusercontent.com/102424510/176754373-20992f53-c51b-4aff-a6ae-366abc237cb4.png)
+### 2) Photo dans ressources
+
